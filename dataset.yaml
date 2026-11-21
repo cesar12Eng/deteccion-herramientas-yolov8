@@ -1,0 +1,17 @@
+
+# Proyecto: Detección de Herramientas
+
+
+path: dataset  
+train: images/train  
+val: images/val  
+
+# Clases 
+names:
+  0: destornillador
+  1: martillo
+  2: pinza
+  3: llave_inglesa
+
+# Número de clases
+nc: 4
